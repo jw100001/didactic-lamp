@@ -1,2 +1,1 @@
-# didactic-lamp
-，，
+Java学习要点
